@@ -1,0 +1,220 @@
+body{
+    font-family:'Roboto', sans-serif;
+    font-weight: bold;
+}
+
+/* start header */
+
+#header{
+    background-image: url(/img/background_slideshow1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 45rem;
+    
+}
+
+#header .btn {
+    letter-spacing: 0.2rem;
+    border: none;
+    
+}
+#header .discover {
+    background: #C14000;
+  
+}
+#header .discover:hover{
+    background:orange;
+}
+#header .learn{
+    background:white;
+}
+#header .learn:hover{
+    background:rgb(214, 203, 203);
+}
+/* end header */
+
+/* start navbar */
+
+#navbar .nav-link:hover{
+    color:#C14000;
+}
+#navbar .dropdown-item:hover{
+    color:#C14000;
+    background-color: white;
+}
+.dropdown:hover .dropdown-menu {
+    display: block;
+    margin-top: 0; 
+ }
+
+/* end navbar */
+
+/* start about */
+#about{
+    min-height: 5rem;
+    padding: 7rem 0rem 5rem 0rem;
+}
+#about .btn{
+    color: rgb(97, 92, 92);
+    border-radius: 0.15px;
+    letter-spacing: 0.15rem;
+}
+#about .btn:hover{
+    color:white;
+    background:#C14000;
+    transition: all 0.4s ease-in;
+}
+
+/* end about */
+
+/* start divider */
+
+.divider{
+    background-image: url(/img/divider_bg.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    height: 18rem;
+}
+.divider .btn{
+	background: transparent;
+	border-radius: 0.15rem;
+	color: #FFF;
+	letter-spacing: 0.15rem;
+	transition: all 0.4s ease-in;
+    padding: 0.75rem;
+    border-color: white;     
+}
+.divider .btn:hover{
+	background: #C14000;
+	border-color: transparent;
+}
+
+/* end divider */
+
+/* start menu */
+.menu{
+    min-height:50rem;
+}
+.menu h2{
+    color:#C14000;
+}
+.menu img{
+    height: 13rem;
+}
+/* end menu */
+
+/* start newsletter */
+
+.newsletter{
+    background-image: url(/img/newsletter_bg.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    height: 22rem;
+}
+.newsletter input{
+	background: transparent;
+	border-color: white;
+	color: #C14000;
+}
+.newsletter .form-control{
+	background: transparent;
+	border: 1px solid #FFF;
+}
+.newsletter .btn{
+    color:#C14000;
+    background: white;
+}
+.newsletter .btn:hover{
+    color:white;
+    background:#C14000;
+    transition: all 0.6s ease-in-out;
+    border: none;
+}
+
+/* end newsletter */
+
+/* start customer */
+
+.customer{
+    min-height: 40rem;
+}
+.customer h2{
+    color:#C14000;
+}
+.customer .media img{
+	border: 2px solid #DDD;
+	width: 5rem;
+	height: 5rem;
+}
+
+/* end customer */
+
+/* start team */
+
+.team{
+    background-image: url(/img/team_bg.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+}
+.team h2{
+    color: #C14000;
+}
+.team .card-title{
+    color: #C14000;
+}
+.card-img-top {
+    height: 25vw;
+    object-fit: cover;
+}
+
+/* end team */
+
+/* start contact */
+.contact{
+    background-image: url(/img/contact_bg.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    height: 30rem;
+}
+.contact .btn{
+    line-height: 2rem;
+    width: 25rem;
+}
+.contact .btn:hover{
+    background:transparent;
+    transition: all 0.6s ease-in-out;
+}
+
+/* end contact */
+
+/* start footer */
+.footer{
+    background: #C14000; 
+    min-height: 10rem;
+    padding: 0.5px;
+}
+.footer p{
+    font-size: 0.9rem;
+}
+/* end footer */
+
+/* start copyright */
+.copyright a{
+	color: #C14000;
+	padding-right:0.75rem;
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+.copyright a:hover{
+    text-decoration:underline;
+}
+/* end copyright */
+
+
+
+	
+
+
+
+
