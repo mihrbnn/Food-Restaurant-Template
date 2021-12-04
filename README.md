@@ -1,7 +1,7 @@
 ##### Hello Everyone!
 
 This is my first project with HTML-CSS and Bootstrap. 
-The orginal design belongs to Khai Tawng.
+The original design belongs to Khai Tawng.
 
 
 
