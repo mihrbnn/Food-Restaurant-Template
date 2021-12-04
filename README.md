@@ -1,6 +1,6 @@
 ## Hello Everyone!
 
-This is the project with HTML-CSS and Bootstrap. 
+This is the project built with HTML-CSS and Bootstrap. 
 The original design belongs to Khai Tawng.
 
 
