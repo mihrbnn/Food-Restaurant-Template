@@ -2,6 +2,14 @@ body{
     font-family:'Roboto', sans-serif;
     font-weight: bold;
 }
+html,body{
+    width: 100%;
+    height: 100%;
+    margin:0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
 
 /* start header */
 
@@ -11,6 +19,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     height: 45rem;
+    
     
 }
 
@@ -166,6 +175,9 @@ body{
 .card-img-top {
     height: 25vw;
     object-fit: cover;
+}
+.team img{
+    height: 20rem;
 }
 
 /* end team */

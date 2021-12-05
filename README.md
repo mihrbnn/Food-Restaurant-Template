@@ -1,6 +1,6 @@
-##### Hello Everyone!
+## Hello Everyone!
 
-This is my first project with HTML-CSS and Bootstrap. 
+This is the project built with HTML-CSS and Bootstrap. 
 The orginal design belongs to Khai Tawng.
 
 
